@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\Profesor\Operacions aritmetricas\Operacions aritmetricas\bin\Debug\Operacions aritmetricas.exe.config
+C:\Users\RAN\Desktop\Profesor\Operacions aritmetricas\Operacions aritmetricas\bin\Debug\Operacions aritmetricas.exe
+C:\Users\RAN\Desktop\Profesor\Operacions aritmetricas\Operacions aritmetricas\bin\Debug\Operacions aritmetricas.pdb
+C:\Users\RAN\Desktop\Profesor\Operacions aritmetricas\Operacions aritmetricas\obj\Debug\Operacions aritmetricas.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\Profesor\Operacions aritmetricas\Operacions aritmetricas\obj\Debug\Operacions aritmetricas.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\Profesor\Operacions aritmetricas\Operacions aritmetricas\obj\Debug\Operacions aritmetricas.exe
+C:\Users\RAN\Desktop\Profesor\Operacions aritmetricas\Operacions aritmetricas\obj\Debug\Operacions aritmetricas.pdb
