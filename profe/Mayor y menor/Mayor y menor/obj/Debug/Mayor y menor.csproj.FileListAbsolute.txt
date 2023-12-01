@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\Profesor\Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.exe.config
+C:\Users\RAN\Desktop\Profesor\Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.exe
+C:\Users\RAN\Desktop\Profesor\Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.pdb
+C:\Users\RAN\Desktop\Profesor\Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\Profesor\Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\Profesor\Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.exe
+C:\Users\RAN\Desktop\Profesor\Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.pdb

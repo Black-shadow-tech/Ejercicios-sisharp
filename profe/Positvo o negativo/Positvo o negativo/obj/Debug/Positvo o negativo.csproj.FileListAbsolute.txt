@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\Profesor\Positvo o negativo\Positvo o negativo\bin\Debug\Positvo o negativo.exe.config
+C:\Users\RAN\Desktop\Profesor\Positvo o negativo\Positvo o negativo\bin\Debug\Positvo o negativo.exe
+C:\Users\RAN\Desktop\Profesor\Positvo o negativo\Positvo o negativo\bin\Debug\Positvo o negativo.pdb
+C:\Users\RAN\Desktop\Profesor\Positvo o negativo\Positvo o negativo\obj\Debug\Positvo o negativo.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\Profesor\Positvo o negativo\Positvo o negativo\obj\Debug\Positvo o negativo.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\Profesor\Positvo o negativo\Positvo o negativo\obj\Debug\Positvo o negativo.exe
+C:\Users\RAN\Desktop\Profesor\Positvo o negativo\Positvo o negativo\obj\Debug\Positvo o negativo.pdb

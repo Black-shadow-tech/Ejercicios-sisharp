@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\Profesor\Año biciesto\Año biciesto\bin\Debug\Año biciesto.exe.config
+C:\Users\RAN\Desktop\Profesor\Año biciesto\Año biciesto\bin\Debug\Año biciesto.exe
+C:\Users\RAN\Desktop\Profesor\Año biciesto\Año biciesto\bin\Debug\Año biciesto.pdb
+C:\Users\RAN\Desktop\Profesor\Año biciesto\Año biciesto\obj\Debug\Año biciesto.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\Profesor\Año biciesto\Año biciesto\obj\Debug\Año biciesto.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\Profesor\Año biciesto\Año biciesto\obj\Debug\Año biciesto.exe
+C:\Users\RAN\Desktop\Profesor\Año biciesto\Año biciesto\obj\Debug\Año biciesto.pdb
