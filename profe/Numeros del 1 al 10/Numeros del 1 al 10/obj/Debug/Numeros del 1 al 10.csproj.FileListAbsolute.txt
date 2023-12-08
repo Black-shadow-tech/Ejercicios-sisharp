@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\Profesor\Numeros del 1 al 10\Numeros del 1 al 10\bin\Debug\Numeros del 1 al 10.exe.config
+C:\Users\RAN\Desktop\Profesor\Numeros del 1 al 10\Numeros del 1 al 10\bin\Debug\Numeros del 1 al 10.exe
+C:\Users\RAN\Desktop\Profesor\Numeros del 1 al 10\Numeros del 1 al 10\bin\Debug\Numeros del 1 al 10.pdb
+C:\Users\RAN\Desktop\Profesor\Numeros del 1 al 10\Numeros del 1 al 10\obj\Debug\Numeros del 1 al 10.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\Profesor\Numeros del 1 al 10\Numeros del 1 al 10\obj\Debug\Numeros del 1 al 10.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\Profesor\Numeros del 1 al 10\Numeros del 1 al 10\obj\Debug\Numeros del 1 al 10.exe
+C:\Users\RAN\Desktop\Profesor\Numeros del 1 al 10\Numeros del 1 al 10\obj\Debug\Numeros del 1 al 10.pdb
