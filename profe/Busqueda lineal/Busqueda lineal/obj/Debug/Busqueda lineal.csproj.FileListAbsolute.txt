@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Busqueda lineal\Busqueda lineal\bin\Debug\Busqueda lineal.exe.config
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Busqueda lineal\Busqueda lineal\bin\Debug\Busqueda lineal.exe
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Busqueda lineal\Busqueda lineal\bin\Debug\Busqueda lineal.pdb
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Busqueda lineal\Busqueda lineal\obj\Debug\Busqueda lineal.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Busqueda lineal\Busqueda lineal\obj\Debug\Busqueda lineal.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Busqueda lineal\Busqueda lineal\obj\Debug\Busqueda lineal.exe
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Busqueda lineal\Busqueda lineal\obj\Debug\Busqueda lineal.pdb

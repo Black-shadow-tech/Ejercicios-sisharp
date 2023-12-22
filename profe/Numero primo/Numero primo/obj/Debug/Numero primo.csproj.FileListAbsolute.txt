@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Numero primo\Numero primo\obj\Debug\Numero primo.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Numero primo\Numero primo\obj\Debug\Numero primo.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Numero primo\Numero primo\bin\Debug\Numero primo.exe.config
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Numero primo\Numero primo\bin\Debug\Numero primo.exe
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Numero primo\Numero primo\bin\Debug\Numero primo.pdb
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Numero primo\Numero primo\obj\Debug\Numero primo.exe
+C:\Users\RAN\Desktop\Profesor\Ejercicios-sisharp\profe\Numero primo\Numero primo\obj\Debug\Numero primo.pdb
